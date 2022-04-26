@@ -12,9 +12,9 @@ function trocarImagem(img){
         showAllButton.style.color = `#38CCCC`
         photos.innerHTML = `
         <div class = "container-image"><img src = "Style/imgs/city/City01.jpg" width = "100" height = "100"/></div>
-        <div class = "container-image"><img src = "Style/imgs/city/City02.jpg" width = "100" height = "100"/></div>
-        <div class = "container-image"><img src = "Style/imgs/city/City03.jpg" width = "100" height = "100"/></div>
-        <div class = "container-image"><img src = "Style/imgs/city/City04.jpg" width = "100" height = "100"/></div>
+        <div class = "container-image"><img src = "Style/imgs/city/city02.jpg" width = "100" height = "100"/></div>
+        <div class = "container-image"><img src = "Style/imgs/city/city03.jpg" width = "100" height = "100"/></div>
+        <div class = "container-image"><img src = "Style/imgs/city/city04.jpg" width = "100" height = "100"/></div>
         `
     } else if ( img == 'nature'){
         cityButton.style.color = `#38CCCC`
@@ -49,9 +49,9 @@ function trocarImagem(img){
 
         photos.innerHTML = `
         <div class = "container-image"><img src = "Style/imgs/city/City01.jpg" width = "100" height = "100"/></div>
-        <div class = "container-image"><img src = "Style/imgs/city/City02.jpg" width = "100" height = "100"/></div>
-        <div class = "container-image"><img src = "Style/imgs/city/City03.jpg" width = "100" height = "100"/></div>
-        <div class = "container-image"><img src = "Style/imgs/city/City04.jpg" width = "100" height = "100"/></div>
+        <div class = "container-image"><img src = "Style/imgs/city/city02.jpg" width = "100" height = "100"/></div>
+        <div class = "container-image"><img src = "Style/imgs/city/city03.jpg" width = "100" height = "100"/></div>
+        <div class = "container-image"><img src = "Style/imgs/city/city04.jpg" width = "100" height = "100"/></div>
         <div class = "container-image"><img src = "Style/imgs/nature/nature01.jpg" width = "100" height = "100"/></div>
         <div class = "container-image"><img src = "Style/imgs/nature/nature02.jpg" width = "100" height = "100"/></div>
         <div class = "container-image"><img src = "Style/imgs/nature/nature03.jpg" width = "100" height = "100"/></div>
